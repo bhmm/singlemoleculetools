@@ -77,6 +77,5 @@ setup(
         'bhmm',
         'six',
         ],
-    ext_modules=cythonize(extensions)
     )
 
